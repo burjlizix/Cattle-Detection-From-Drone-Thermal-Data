@@ -1,0 +1,4 @@
+data filter=lfs diff=lfs merge=lfs -text
+models filter=lfs diff=lfs merge=lfs -text
+results filter=lfs diff=lfs merge=lfs -text
+slides[[:space:]]and[[:space:]]notes filter=lfs diff=lfs merge=lfs -text
