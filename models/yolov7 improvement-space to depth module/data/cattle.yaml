@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/COURSE/MM/ImageProcess/MM803Project/data/cattle_dataset_yolov7/train/images
+val: /content/drive/MyDrive/COURSE/MM/ImageProcess/MM803Project/data/cattle_dataset_yolov7/valid/images
+test: /content/drive/MyDrive/COURSE/MM/ImageProcess/MM803Project/data/cattle_dataset_yolov7/test/images
+
+nc: 1
+names: ['cow']
